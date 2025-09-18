@@ -3,6 +3,3 @@ numpy==1.27.5
 matplotlib==3.8.0
 scikit-learn==1.3.3
 lime==0.2.2.1
-pandas==2.1.1          # for potential data manipulation
-plotly==5.18.0         # for interactive plots
-seaborn==0.12.3        # for enhanced plotting aesthetics
